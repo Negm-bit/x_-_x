@@ -141,7 +141,7 @@ window.SITE_DATA = {
 
   {
     file: 'video-06.mp4',
-    caption: 'انا بعشق ضحك ف الفيديو دا😂❤️'
+    caption: 'انا بعشق ضحكتك ف الفيديو دا😂❤️'
   },
 
   {
